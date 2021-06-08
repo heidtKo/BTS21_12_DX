@@ -82,6 +82,11 @@
                 <default>false</default>
                 <label>Less White Ice</label>
             </value>
+            <value>
+                <fullName>TEST VALUE</fullName>
+                <default>false</default>
+                <label>TEST VALUE</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
     <visibleLines>4</visibleLines>
