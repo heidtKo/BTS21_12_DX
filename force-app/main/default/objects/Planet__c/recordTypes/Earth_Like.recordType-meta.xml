@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Earth_Like</fullName>
+    <active>true</active>
+    <label>Earth Like</label>
+    <picklistValues>
+        <picklist>Surface_Type__c</picklist>
+        <values>
+            <fullName>Beach</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Blue Gas</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Forest</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Green Gas</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Grey Gas</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Grey Rocks</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Less White Ice</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Mountains</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Red Rocks</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>See</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Shiny Rocks</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>TEST VALUE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>White Ice</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>White Rocks</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Whiter Ice</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
