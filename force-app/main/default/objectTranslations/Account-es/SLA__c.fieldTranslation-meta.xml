@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- SLA --></label>
+    <label>acuerdo de servicio</label>
     <name>SLA__c</name>
     <picklistValues>
         <masterLabel>Bronze</masterLabel>
-        <translation><!-- Bronze --></translation>
+        <translation>Pinga</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Gold</masterLabel>
-        <translation><!-- Gold --></translation>
+        <translation>Orrrrro</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Platinum</masterLabel>
-        <translation><!-- Platinum --></translation>
+        <translation>P-Latino</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Silver</masterLabel>
-        <translation><!-- Silver --></translation>
+        <translation>P-latita</translation>
     </picklistValues>
 </CustomFieldTranslation>
