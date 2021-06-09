@@ -2,10 +2,7 @@
 <Report xmlns="http://soap.sforce.com/2006/04/metadata">
     <columns>
         <field>DUE_DATE</field>
-    </columns>
-    <columns>
-        <field>USERS.NAME</field>
-    </columns>
+ </columns>
     <columns>
         <field>ACCOUNT.NAME</field>
     </columns>
@@ -15,7 +12,32 @@
     <columns>
         <field>TYPE</field>
     </columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
     <columns>
+        <field>ADDRESS1_STATE</field>
+    </columns>
+    <columns>
+        <field>TYPE</field>
+    </columns> </columns>
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>ADDRESS1_STATE</field>
+    </columns>
+    <columns>
+        <field>TYPE</field>
+    </columns> </columns>
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>ADDRESS1_STATE</field>
+    </columns>
+    <columns>
+        <field>TYPE</field>
+    </columns>
         <field>RATING</field>
     </columns>
     <columns>
@@ -27,12 +49,16 @@
         <name>co</name>
         <value>1</value>
     </params>
-    <reportType>AccountList</reportType>
-    <scope>user</scope>
-    <showDetails>true</showDetails>
-    <showGrandTotal>true</showGrandTotal>
-    <showSubTotals>true</showSubTotals>
-    <timeFrameFilter>
+ </columns>
+    <columns>
+        <field>ACCOUNT.NAME</field>
+    </columns>
+    <columns>
+        <field>ADDRESS1_STATE</field>
+    </columns>
+    <columns>
+        <field>TYPE</field>
+    </columns>
         <dateColumn>CREATED_DATE</dateColumn>
         <interval>INTERVAL_CUSTOM</interval>
         <startDate>2021-06-01</startDate>
