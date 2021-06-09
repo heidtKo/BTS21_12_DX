@@ -11,7 +11,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>Test Permission Set</label>
+    <label>Test Permission Set FB</label>
     <license>Analytics Cloud Integration User</license>
     <recordTypeVisibilities>
         <recordType>Case.XXX_record_type</recordType>
