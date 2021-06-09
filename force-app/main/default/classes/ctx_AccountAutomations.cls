@@ -1,6 +1,6 @@
 public class ctx_AccountAutomations {
     
-    //I'm in the mood for a conflict
+    //test. Shivangi is right. this is faster
     
     Public static Account setDefaultDescription(Account a){
         System.debug('Added line');
