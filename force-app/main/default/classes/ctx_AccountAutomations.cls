@@ -1,6 +1,6 @@
 public class ctx_AccountAutomations {
     
-    //I'm in the mood for a conflict
+    //I don't have time. conflict NOW
     
     Public static Account setDefaultDescription(Account a){
         System.debug('Added line');
