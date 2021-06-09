@@ -4,7 +4,7 @@
     <name>Galaxy__c</name>
     <picklistValues>
         <masterLabel>Andromeda Galaxy</masterLabel>
-        <translation>INT</translation>
+        <translation>FB</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Cigar Galaxy</masterLabel>
