@@ -4,10 +4,10 @@
     <name>Active__c</name>
     <picklistValues>
         <masterLabel>No</masterLabel>
-        <translation>NOOOOOO</translation>
+        <translation>Casi un poco NO</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Yes</masterLabel>
-        <translation>SIIIII 3po</translation>
+        <translation>ci r2d2</translation>
     </picklistValues>
 </CustomFieldTranslation>
