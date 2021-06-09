@@ -8,12 +8,12 @@
     </standardValue>
     <standardValue>
         <fullName>Customer - Direct</fullName>
-        <default>false</default>
+        <default>true</default>
         <label>Customer - Direct</label>
     </standardValue>
     <standardValue>
         <fullName>Customer - Channel</fullName>
-        <default>false</default>
+        <default>true</default>
         <label>Customer - Channel</label>
     </standardValue>
     <standardValue>
