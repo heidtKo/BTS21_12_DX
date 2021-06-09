@@ -13,5 +13,5 @@
         <operation>equals</operation>
         <value>Planet__c.Gas_Giant</value>
     </filters>
-    <label>All Gas Giants</label>
+    <label>All Gas Giants FB</label>
 </ListView>
