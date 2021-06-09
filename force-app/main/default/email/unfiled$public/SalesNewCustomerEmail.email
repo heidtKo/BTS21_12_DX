@@ -1,7 +1,48 @@
-Dear {!Contact.FirstName},
+cd $(dirname ${0:-}); cd ..; pwd)
 
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
 
+echo "Welcome to copado vlocity_build buildpack!!"
+
+cd "$BUILD_DIR"
+
+### Nodejs
+echo "Installing Nodejs"
+
+tar xfJ $BP_DIR/resources/node-v*.tar.xz
+mv node-v* node
+
+export PATH="$PATH:$BUILD_DIR/node/bin"
+export HOME="$BUILD_DIR"
+
+### Vlocity
+echo "Installing Vlocity"
+
+unzip -q $BP_DIR/resources/vlocity_build-*.zip
+### Nodejs
+echo "Installing Nodejs"
+
+tar xfJ $BP_DIR/resources/node-v*.tar.xz
+mv node-v* node
+
+export PATH="$PATH:$BUILD_DIR/node/bin"
+export HOME="$BUILD_DIR"
+
+### Vlocity
+echo "Installing Vlocity"
+
+unzip -q $BP_DIR/resources/vlocity_build-*.zipt on the following numbers: 
+
+Main: 810-545-1000
+Sales: 810-545-1222
+Customer Service & Support: 810-545-1333
+Fax: 810-545-1001I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
+
+You can also contact GenWatt on the following numbers: 
+
+Main: 810-545-1000
+Sales: 810-545-1222
+Customer Service & Support: 810-545-1333
+Fax: 810-545-1001
 I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
 
 You can also contact GenWatt on the following numbers: 
@@ -10,7 +51,6 @@ Main: 810-545-1000
 Sales: 810-545-1222
 Customer Service & Support: 810-545-1333
 Fax: 810-545-1001
-
 I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
 
 You can also contact GenWatt on the following numbers: 
@@ -24,33 +64,23 @@ You can also contact GenWatt on the following numbers:
 
 Main: 810-545-1000
 Sales: 810-545-1222
-Customer Service & Support: 810-545-1333
-Fax: 810-545-1001
-I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
+cd $(dirname ${0:-}); cd ..; pwd)
 
-You can also contact GenWatt on the following numbers: 
 
-Main: 810-545-1000
-Sales: 810-545-1222
-Customer Service & Support: 810-545-1333
-Fax: 810-545-1001
-I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
+echo "Welcome to copado vlocity_build buildpack!!"
 
-You can also contact GenWatt on the following numbers: 
+cd "$BUILD_DIR"
 
-Main: 810-545-1000
-Sales: 810-545-1222
-Customer Service & Support: 810-545-1333
-Fax: 810-545-1001I would like to introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
+### Nodejs
+echo "Installing Nodejs"
 
-You can also contact GenWatt on the following numbers: 
+tar xfJ $BP_DIR/resources/node-v*.tar.xz
+mv node-v* node
 
-Main: 810-545-1000
-Sales: 810-545-1222
-Customer Service & Support: 810-545-1333
-Fax: 810-545-1001
+export PATH="$PATH:$BUILD_DIR/node/bin"
+export HOME="$BUILD_DIR"
 
-I am confident GenWatt will serve you well and hope to see our relationship grow over the years.
+### Vlocity
+echo "Installing Vlocity"
 
-Best Regards, 
-{!User.Name}
+unzip -q $BP_DIR/resources/vlocity_build-*.zip
