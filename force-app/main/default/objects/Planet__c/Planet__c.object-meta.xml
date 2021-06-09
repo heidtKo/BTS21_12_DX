@@ -161,7 +161,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Planet</label>
     <nameField>
-        <label>Planet Name</label>
+        <label>Planet Name FB</label>
         <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
         <type>Text</type>
