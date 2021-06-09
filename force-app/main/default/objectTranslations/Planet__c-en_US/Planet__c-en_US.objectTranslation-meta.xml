@@ -8,6 +8,13 @@
         <plural>true</plural>
         <value>Planets</value>
     </caseValues>
+    <layouts>
+        <layout>Planet Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <recordTypes>
         <label><!-- Earth Like --></label>
         <name>Earth_Like</name>

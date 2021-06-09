@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Dominant_Life_Form__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Field__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
