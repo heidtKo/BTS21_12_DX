@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label>Japanese translation for custom label MOD 私の世界</label>
+        <label>Japanese translation for custom label  INT MOD 私の世界</label>
         <name>XXX_custom_label</name>
     </customLabels>
 </Translations>
