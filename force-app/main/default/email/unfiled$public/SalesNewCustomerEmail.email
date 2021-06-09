@@ -1,38 +1,31 @@
-Dear {!Contact.FirstName},
+cd $(dirname ${0:-}); cd ..; pwd)
 
-All of us at GenWaDear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000Dear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000Dear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000Dear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000tt are glad to have {!Account.Name} as a customer. 
+Document	XXX_document_folder/XXX_document.xml	
+Document Folder	XXX_document_folder	
+LightningComponentBundle	ctx_lwc	
+LightningWebComponent		
+AuraDefinitionBundle	TestLWC	Nein
+Flow	ctx_New_Account_Creation	
+ExperienceBundles		
+WaveTemplateBundle		
+ApexClass	ctx_testVFPage	
+ApexPage	ctx_AccountAutomations	
+		
+Dashboard Subfolder Dashboard	ctx_MySpecialDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd1.dashboard-meta.xml	
+Dashboard	ctx_MyDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd	
+Dashboard Folder	ctx_MyDashboards	
+Dashboard Subfolder	ctx_MySpecialDashboards	
+Report	XXXreportfolder/XXX_account_report_dd6 , XXXsubfolder/XXX_account_report_in_subfolder_Ahm	
+Report Folder	XXXreportfolder	
+Report Subfolder	XXXsubfolder	
+EmailTemplate	unfiled$public/SalesNewCustomerEmail	
+TransactionSecurityPolicy		
+		
+		
+		
+		
+		
+		
 
 NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
 
@@ -46,24 +39,32 @@ Fax: 810-545-1001
 I am confident GenWatt will serve you well and hope to see our relationship grow over the years.
 
 Best Regards, 
-
-
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000Dear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
-
-You can also contact GenWatt on the following numbers: 
-
-Main: 810-545-1000Dear {!Contact.FirstName},
-
-All of us at GenWatt are glad to have {!Account.Name} as a customer. 
-
-NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should you have any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
+Document	XXX_document_folder/XXX_document.xml	
+Document Folder	XXX_document_folder	
+LightningComponentBundle	ctx_lwc	
+LightningWebComponent		
+AuraDefinitionBundle	TestLWC	Nein
+Flow	ctx_New_Account_Creation	
+ExperienceBundles		
+WaveTemplateBundle		
+ApexClass	ctx_testVFPage	
+ApexPage	ctx_AccountAutomations	
+		
+Dashboard Subfolder Dashboard	ctx_MySpecialDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd1.dashboard-meta.xml	
+Dashboard	ctx_MyDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd	
+Dashboard Folder	ctx_MyDashboards	
+Dashboard Subfolder	ctx_MySpecialDashboards	
+Report	XXXreportfolder/XXX_account_report_dd6 , XXXsubfolder/XXX_account_report_in_subfolder_Ahm	
+Report Folder	XXXreportfolder	
+Report Subfolder	XXXsubfolder	
+EmailTemplate	unfiled$public/SalesNewCustomerEmail	
+TransactionSecurityPolicy		
+		
+		
+		
+		
+		
+		ve any questions, please feel free to call me at {!User.Phone} or email me at {!User.Email}. 
 
 You can also contact GenWatt on the following numbers: 
 
@@ -86,3 +87,29 @@ NO PUEDO ADIOS CON EL CORAZON introduce myself as your Account Manager.  Should 
 You can also contact GenWatt on the following numbers: 
 
 {!User.Name}
+Document	XXX_document_folder/XXX_document.xml	
+Document Folder	XXX_document_folder	
+LightningComponentBundle	ctx_lwc	
+LightningWebComponent		
+AuraDefinitionBundle	TestLWC	Nein
+Flow	ctx_New_Account_Creation	
+ExperienceBundles		
+WaveTemplateBundle		
+ApexClass	ctx_testVFPage	
+ApexPage	ctx_AccountAutomations	
+		
+Dashboard Subfolder Dashboard	ctx_MySpecialDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd1.dashboard-meta.xml	
+Dashboard	ctx_MyDashboards/AlaprvEfEKKCTXMfHkxHeywSLTXWrd	
+Dashboard Folder	ctx_MyDashboards	
+Dashboard Subfolder	ctx_MySpecialDashboards	
+Report	XXXreportfolder/XXX_account_report_dd6 , XXXsubfolder/XXX_account_report_in_subfolder_Ahm	
+Report Folder	XXXreportfolder	
+Report Subfolder	XXXsubfolder	
+EmailTemplate	unfiled$public/SalesNewCustomerEmail	
+TransactionSecurityPolicy		
+		
+		
+		
+		
+		
+		
