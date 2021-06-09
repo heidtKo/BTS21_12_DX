@@ -4,10 +4,10 @@
         <field>DUE_DATE</field>
     </columns>
     <columns>
-        <field>USERS.NAME</field>
+        <field>PADRE.NAME</field>
     </columns>
     <columns>
-        <field>ACCOUNT.NAME</field>
+        <field>OTRO.NAME</field>
     </columns>
     <columns>
         <field>ADDRESS1_STATE</field>
@@ -19,7 +19,7 @@
         <field>RATING</field>
     </columns>
     <columns>
-        <field>LAST_UPDATE</field>
+        <field>MIDDLE_UPDATE</field>
     </columns>
     <format>Tabular</format>
     <name>XXX account report in subfolder</name>
