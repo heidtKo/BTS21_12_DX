@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>translation in spanish</label>
+    <name>Active__c</name>
+    <picklistValues>
+        <masterLabel>No</masterLabel>
+        <translation>NOOOOOO</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Yes</masterLabel>
+        <translation>SIIIII 3po</translation>
+    </picklistValues>
+</CustomFieldTranslation>
