@@ -11,7 +11,7 @@
         <inputParameters>
             <name>emailSubject</name>
             <value>
-                <stringValue>Salesforce New Account asdasd eeee didn&apos;t start: No matching records found</stringValue>
+                <stringValue>Salesforce New Account Creation lolo didn&apos;t start: No matching records found</stringValue>
             </value>
         </inputParameters>
         <inputParameters>
@@ -23,7 +23,7 @@
         <inputParameters>
             <name>emailAddresses</name>
             <value>
-                <stringValue>asdasd@copado.com</stringValue>
+                <stringValue>paco@copado.com</stringValue>
             </value>
         </inputParameters>
     </actionCalls>
@@ -50,7 +50,7 @@
         <inputParameters>
             <name>emailAddresses</name>
             <value>
-                <stringValue>ss@copado.com</stringValue>
+                <stringValue>kheidt@copado.com</stringValue>
             </value>
         </inputParameters>
     </actionCalls>
@@ -64,7 +64,7 @@
             <assignToReference>myVariable_event_record_count</assignToReference>
             <operator>Add</operator>
             <value>
-                <numberValue>6.0</numberValue>
+                <numberValue>2.0</numberValue>
             </value>
         </assignmentItems>
         <assignmentItems>
