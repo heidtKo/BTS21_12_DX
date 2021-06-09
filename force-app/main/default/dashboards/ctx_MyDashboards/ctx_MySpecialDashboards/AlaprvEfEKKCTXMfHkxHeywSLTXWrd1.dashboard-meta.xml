@@ -3,7 +3,7 @@
     <backgroundEndColor>#FFFFFF</backgroundEndColor>
     <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
     <backgroundStartColor>#FFFFFF</backgroundStartColor>
-    <chartTheme>light</chartTheme>
+    <chartTheme>dark</chartTheme>
     <colorPalette>unity</colorPalette>
     <dashboardChartTheme>light</dashboardChartTheme>
     <dashboardColorPalette>unity</dashboardColorPalette>
@@ -12,7 +12,7 @@
             <colSpan>4</colSpan>
             <columnIndex>0</columnIndex>
             <dashboardComponent>
-                <autoselectColumnsFromReport>false</autoselectColumnsFromReport>
+                <autoselectColumnsFromReport>true</autoselectColumnsFromReport>
                 <chartAxisRange>Auto</chartAxisRange>
                 <chartSummary>
                     <axisBinding>x</axisBinding>
@@ -68,8 +68,8 @@
                 <gaugeMin>0.0</gaugeMin>
                 <groupingSortProperties/>
                 <header>KH Test Accounts &amp; Contacts %$!()?¿#@</header>
-                <indicatorBreakpoint1>33.0</indicatorBreakpoint1>
-                <indicatorBreakpoint2>67.0</indicatorBreakpoint2>
+                <indicatorBreakpoint1>23.0</indicatorBreakpoint1>
+                <indicatorBreakpoint2>77.0</indicatorBreakpoint2>
                 <indicatorHighColor>#00716B</indicatorHighColor>
                 <indicatorLowColor>#C23934</indicatorLowColor>
                 <indicatorMiddleColor>#FFB75D</indicatorMiddleColor>
@@ -89,7 +89,7 @@
     <isGridLayout>true</isGridLayout>
     <runningUser>bts21_dev1@btestt.copado.com</runningUser>
     <textColor>#000000</textColor>
-    <title>ctx child Folder dash</title>
-    <titleColor>#000000</titleColor>
-    <titleSize>12</titleSize>
+    <title>ctx child Folder dashsssss</title>
+    <titleColor>#0000010</titleColor>
+    <titleSize>13</titleSize>
 </Dashboard>
