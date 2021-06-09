@@ -3,7 +3,7 @@
     <backgroundEndColor>#FFFFFF</backgroundEndColor>
     <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
     <backgroundStartColor>#FFFFFF</backgroundStartColor>
-    <chartTheme>light</chartTheme>
+    <chartTheme>colored</chartTheme>
     <colorPalette>unity</colorPalette>
     <dashboardChartTheme>light</dashboardChartTheme>
     <dashboardColorPalette>unity</dashboardColorPalette>
@@ -29,7 +29,7 @@
                 <drillToDetailEnabled>false</drillToDetailEnabled>
                 <enableHover>false</enableHover>
                 <expandOthers>false</expandOthers>
-                <groupingColumn>OWNER_FULL_NAME</groupingColumn>
+                <groupingColumn>eoooooo</groupingColumn>
                 <groupingColumn>LAST_UPDATE</groupingColumn>
                 <groupingSortProperties>
                     <groupingSorts>
@@ -90,6 +90,6 @@
     <runningUser>summer21blitz12@copado.com</runningUser>
     <textColor>#000000</textColor>
     <title>ctx child Folder dash</title>
-    <titleColor>#000000</titleColor>
-    <titleSize>12</titleSize>
+    <titleColor>#020001</titleColor>
+    <titleSize>09</titleSize>
 </Dashboard>
