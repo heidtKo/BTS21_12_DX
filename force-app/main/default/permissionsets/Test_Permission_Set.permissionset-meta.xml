@@ -6,12 +6,12 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
+        <editable>true</editable>
         <field>Case.XXX_custom_field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>Test Permission Set INT</label>
+    <label>Test Permission Set FB</label>
     <license>Analytics Cloud Integration User</license>
     <recordTypeVisibilities>
         <recordType>Case.XXX_record_type</recordType>
