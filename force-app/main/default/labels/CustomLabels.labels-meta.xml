@@ -35,4 +35,11 @@
         <shortDescription>ctx_labelUniverse</shortDescription>
         <value>Marvel Universe</value>
     </labels>
+    <labels>
+        <fullName>timTest</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>timTest</shortDescription>
+        <value>If I am trimmed correctly, I am the only label in the deployed file.</value>
+    </labels>
 </CustomLabels>
