@@ -4,7 +4,7 @@
     <name>Active__c</name>
     <picklistValues>
         <masterLabel>No</masterLabel>
-        <translation>Casi un poco NO</translation>
+        <translation>I want a conflict here</translation>
     </picklistValues>
     <picklistValues>
         <masterLabel>Yes</masterLabel>
