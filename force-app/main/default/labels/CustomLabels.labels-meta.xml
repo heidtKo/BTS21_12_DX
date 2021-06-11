@@ -41,5 +41,12 @@
         <protected>true</protected>
         <shortDescription>timTest</shortDescription>
         <value>If I am trimmed correctly, I am the only label in the deployed file.</value>
+    </labels>    
+    <labels>
+        <fullName>I_DO_NOT_EXIST</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>trimTestNoTypeO</shortDescription>
+        <value>If I AM IN THE FILE, ALBERTO DOES 20 PUSH UPS</value>
     </labels>
 </CustomLabels>
