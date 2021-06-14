@@ -5,7 +5,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>XXX custom label</shortDescription>
-        <value>this is the value</value>
+        <value>this is the value modified for conflicting</value>
     </labels>
     <labels>
         <fullName>ctx_labelDimension</fullName>
