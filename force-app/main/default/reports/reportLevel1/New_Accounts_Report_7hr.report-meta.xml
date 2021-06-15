@@ -21,6 +21,9 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <columns>
+        <field>ALIAS</field>
+    </columns>
     <format>Tabular</format>
     <name>Accounts Report level 1</name>
     <params>
