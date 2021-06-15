@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <action>
+        <block>false</block>
+        <endSession>false</endSession>
+        <freezeUser>false</freezeUser>
+        <notifications>
+            <inApp>false</inApp>
+            <sendEmail>true</sendEmail>
+            <user>{!Environment.VAR_NAME_USER}</user>
+        </notifications>
+        <twoFactorAuthentication>false</twoFactorAuthentication>
+    </action>
+    <active>true</active>
+    <description>Blitz test source Dx description</description>
+    <developerName>BlitztestsourceDx</developerName>
+    <eventName>ListViewEvent</eventName>
+    <flow>PolicyCondition_FbiJlWEcukZTjKDrgqMz</flow>
+    <masterLabel>Blitz test source Dx</masterLabel>
+    <type>CustomConditionBuilderPolicy</type>
+</TransactionSecurityPolicy>
