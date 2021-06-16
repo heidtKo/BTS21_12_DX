@@ -14,7 +14,7 @@
     <active>true</active>
     <developerName>XXXtransactionpolicy</developerName>
     <eventName>ApiEvent</eventName>
-    <flow>PolicyCondition_LRdcUFXaHIhxANtegFUR</flow>
+    <flow>PolicyCondition_IJpRHmOwjglRAPktMACZ</flow>
     <masterLabel>XXX transaction policy</masterLabel>
     <type>CustomConditionBuilderPolicy</type>
 </TransactionSecurityPolicy>
