@@ -1,5 +1,17 @@
-<html><head>
-	<title></title>
-</head>
-<body style="height: auto; min-height: auto;">{{{Recipient.Address}}}<br />
-{{{Account.testNumber__c}}}</body></html>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <body xmlns="" style="height: auto; min-height: auto;">
+                {{{Recipient.Address}}}
+        
+        <br/>
+                {{{Account.testNumber__c}}}
+    
+    </body>
+    <head xmlns="">
+                	
+        
+        <title/>
+                
+    
+    </head>
+</EmailTemplate>
