@@ -24,8 +24,11 @@
     <columns>
         <field>ALIAS</field>
     </columns>
+    <columns>
+        <field>CREATED</field>
+    </columns>
     <format>Tabular</format>
-    <name>Accounts Report level 1</name>
+    <name>Accounts Report level 1 edited</name>
     <params>
         <name>co</name>
         <value>1</value>
