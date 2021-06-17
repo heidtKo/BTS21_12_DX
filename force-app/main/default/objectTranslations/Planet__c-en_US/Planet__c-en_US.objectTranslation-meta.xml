@@ -8,5 +8,21 @@
         <plural>true</plural>
         <value>Planets</value>
     </caseValues>
+    <recordTypes>
+        <label></label>
+        <name>Earth_Like</name>
+    </recordTypes>
+    <recordTypes>
+        <label></label>
+        <name>Gas_Giant</name>
+    </recordTypes>
+    <recordTypes>
+        <label></label>
+        <name>Ice_Desert</name>
+    </recordTypes>
     <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage></errorMessage>
+        <name>No_Empty_Name_or_Galaxy</name>
+    </validationRules>
 </CustomObjectTranslation>
