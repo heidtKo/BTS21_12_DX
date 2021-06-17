@@ -4,7 +4,7 @@
         <fullName>Standard</fullName>
         <active>false</active>
         <ruleEntry>
-            <assignedTo>summer21blitz12@copado.com</assignedTo>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -23,7 +23,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>summer21blitz12@copado.com</assignedTo>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -42,7 +42,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>summer21blitz12@copado.com</assignedTo>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -61,7 +61,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>summer21blitz12@copado.com</assignedTo>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -80,7 +80,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>summer21blitz12@copado.com</assignedTo>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
@@ -91,7 +91,7 @@
     </assignmentRule>
     <assignmentRule>
         <fullName>ctx_Standard</fullName>
-        <active>true</active>
+        <active>false</active>
         <ruleEntry>
             <assignedTo>Enable_Sharing_Queue</assignedTo>
             <assignedToType>Queue</assignedToType>
@@ -176,6 +176,32 @@
                 <operation>contains</operation>
                 <value>Partner</value>
             </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>secondAssignmentRule</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>Enable_Sharing_Queue</assignedTo>
+            <assignedToType>Queue</assignedToType>
+            <criteriaItems>
+                <field>Case.BusinessHoursId</field>
+                <operation>notEqual</operation>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>testAssignmentRule</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>{!Environment.VAR_NAME_USER}</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.Reason</field>
+                <operation>equals</operation>
+                <value>Performance</value>
+            </criteriaItems>
+            <template>unfiled$public/SupportCaseAssignmentNotification</template>
         </ruleEntry>
     </assignmentRule>
 </AssignmentRules>
