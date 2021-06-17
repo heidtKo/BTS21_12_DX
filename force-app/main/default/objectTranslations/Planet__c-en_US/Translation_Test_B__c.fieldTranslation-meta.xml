@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>This is the Transaltion for B</label>
+    <label>This is the Transaltion for B FB wrong</label>
     <name>Translation_Test_B__c</name>
 </CustomFieldTranslation>
