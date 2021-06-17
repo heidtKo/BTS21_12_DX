@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label>Japanese translation for Label A FB INT wrong</label>
+        <label>Thursday Test in FB</label>
         <name>Label_A</name>
     </customLabels>
     <customLabels>
-        <label>This is the Japanese translation for Label B INT good</label>
+        <label>This is the Japanese translation for Label B FB wrong</label>
         <name>Label_B</name>
     </customLabels>
     <customLabels>

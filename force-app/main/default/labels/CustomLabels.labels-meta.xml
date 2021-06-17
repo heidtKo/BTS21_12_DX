@@ -5,27 +5,27 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Label A</shortDescription>
-        <value>This is the Label A FB Mod INT wrong</value>
+        <value>Thursday Test in FB</value>
     </labels>
     <labels>
         <fullName>Label_B</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Label B</shortDescription>
-        <value>This is the custom label B INT good</value>
+        <value>This is the custom label B FB Wrong</value>
     </labels>
     <labels>
         <fullName>XXX_custom_label</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>XXX custom label INT</shortDescription>
+        <shortDescription>XXX custom label</shortDescription>
         <value>this is the value</value>
     </labels>
     <labels>
         <fullName>ctx_labelDimension</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>ctx_labelDimension INT</shortDescription>
+        <shortDescription>ctx_labelDimension</shortDescription>
         <value>my Dimension</value>
     </labels>
     <labels>
