@@ -1,0 +1,4 @@
+<apex:page>
+    <h1>Greetings</h1>
+    Hello world!!!
+</apex:page>
