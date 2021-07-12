@@ -4,6 +4,103 @@
     <active>true</active>
     <label>Earth Like</label>
     <picklistValues>
+        <picklist>Dominant_Life_Form__c</picklist>
+        <values>
+            <fullName>All Of them</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Bacteria</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Insects</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Large Mammals</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medium Sized Reptiles</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Small Mammals</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Small Reptiles</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Galaxy__c</picklist>
+        <values>
+            <fullName>Cigar Galaxy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Milky Way</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Sub_Galaxy_Elements__c</picklist>
+        <values>
+            <fullName>Android Andromeda</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Camel Andromedar</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cohiba</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Core Andromeda</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>East Milky Way</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Frodo Brings It</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Frodo Drops It</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Frodo Got It</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Hazelnut Milk Way</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>North Milky Way</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vega Fina</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Vegueros</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Very Milky Way</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>Surface_Type__c</picklist>
         <values>
             <fullName>Beach</fullName>

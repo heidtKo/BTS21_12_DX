@@ -4,7 +4,7 @@
     <active>true</active>
     <errorConditionFormula>OR(
    /**
-   * FB validation rules support comments. 
+   * MOD validation rules support comments. 
    * If you need to change something, 
    * you can just modify the comment
    **/
