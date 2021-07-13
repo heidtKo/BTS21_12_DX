@@ -9,7 +9,11 @@
         <name>Label_B</name>
     </customLabels>
     <customLabels>
-        <label>Japanese translation for custom label</label>
+        <label>Japanese translation for custom label MOD 私の世界</label>
         <name>XXX_custom_label</name>
+    </customLabels>
+    <customLabels>
+        <label></label>
+        <name>timTest</name>
     </customLabels>
 </Translations>

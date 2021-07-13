@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>Thursday Test in FB</label>
-    <name>Translation_Test_A__c</name>
+    <label><!-- orbit --></label>
+    <name>orbit__c</name>
 </CustomFieldTranslation>

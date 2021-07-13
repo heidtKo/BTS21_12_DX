@@ -47,6 +47,10 @@
         <translation><!-- Shiny Rocks --></translation>
     </picklistValues>
     <picklistValues>
+        <masterLabel>TEST VALUE</masterLabel>
+        <translation><!-- TEST VALUE --></translation>
+    </picklistValues>
+    <picklistValues>
         <masterLabel>White Ice</masterLabel>
         <translation><!-- White Ice --></translation>
     </picklistValues>
