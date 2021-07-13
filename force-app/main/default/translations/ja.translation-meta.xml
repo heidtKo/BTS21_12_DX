@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Translations xmlns="http://soap.sforce.com/2006/04/metadata"
-      xmlns:n1="http://www.w3.org/2001/XMLSchema-instance">
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label>Thursday Test in FB</label>
+        <label>Japanese translation for Label A FB</label>
         <name>Label_A</name>
     </customLabels>
     <customLabels>
@@ -13,16 +12,8 @@
         <label>Japanese translation for custom label MOD 私の世界</label>
         <name>XXX_custom_label</name>
     </customLabels>
-    <flowDefinitions>
-        <flows>
-            <fullName n1:nil="true" />
-            <textTemplates>
-                <name>multipleRecordsFoundTextTemplate</name>
-            </textTemplates>
-            <textTemplates>
-                <name>noRecordsFoundTextTemplate</name>
-            </textTemplates>
-        </flows>
-        <fullName>ctx_New_Account_Creation</fullName>
-    </flowDefinitions>
+    <customLabels>
+        <label></label>
+        <name>timTest</name>
+    </customLabels>
 </Translations>
